@@ -1,0 +1,3 @@
+[submodule "DjangoFinalProject"]
+	path = DjangoFinalProject
+	url = https://github.com/ArlanovaHelen/DjangoFinalProject.git
